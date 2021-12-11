@@ -2,7 +2,7 @@
     display: flex;
 }
 
-.user-component__column,
+.user-component,
 .user-component__column:first-child {
     display: flex;
     align-items: center;
